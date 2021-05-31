@@ -4,4 +4,5 @@
 </template>
 
 <style>
+@import url();
 </style>
